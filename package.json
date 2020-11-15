@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "gatsby": "^2.25.3",
+    "gatsby-source-filesystem": "^2.5.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
@@ -23,9 +24,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+    "url": "https://github.com/baristikir/mdx-blog-gatsby.git"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/baristikir/mdx-blog-gatsby/issues"
   }
 }
